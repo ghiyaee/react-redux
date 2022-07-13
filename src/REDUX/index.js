@@ -1,0 +1,1 @@
+export {buyMobileAppel,buyMobileSamsung,buyTabletIpad,buyTabletSamsung } from './mobile/mbileAction'
